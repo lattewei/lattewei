@@ -1,19 +1,17 @@
-# 👋 ltcwr
+# hello, i am latte
 
-Building backend systems, AI tooling and blockchain infrastructure with Go.
+Building things around **backend systems, on-chain infrastructure and tokenized assets**.
 
-Focused on reliability, observability and developer experience.
+Mostly working with Go and EVM, sometimes with Java
 
-## Stack : 
+## Stack
 
-- Go
-- Python 
-- PostgreSQL
-- Docker 
-- Solidity
+Go - Python - PostgreSQL - Docker  - Solidity / EVM
 
-## Contact : 
+## Currently
 
-Telegram: @ymirog  
-X: @xltcwr  
-Blog: ltcwr.github.io
+Working on ideas around **tokenized assets and the infrastructure behind them**.
+
+## Elsewhere 🌐
+
+X: @lattenull
