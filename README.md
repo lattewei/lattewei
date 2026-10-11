@@ -1,8 +1,11 @@
 # latte 🧋
 
-Backend and on-chain infrastructure, mostly in Go.
+I study computer science in Paris.
 
-I build systems around token launches and tokenized assets: ingestion, transaction decoding, wallet graphs, and risk signals that stay explainable. Solana is the current focus. EVM and Solidity before that.
+In my free time, I build projects around web3/blockchain, backend engineering, and APIs. I'm also interested in exploring healthcare and music through technology.
+
+My next goal is to deepen my understanding of how AI works so that I can apply it to real-world applications.
+
 
 ## Stack
 
@@ -15,3 +18,6 @@ I build systems around token launches and tokenized assets: ingestion, transacti
 ## Elsewhere
 
 [![X](https://img.shields.io/badge/@lattenull-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lattenull)
+
+[![Email](https://img.shields.io/badge/latte.pro%40tutamail.com-E0001B?style=flat-square)](mailto:latte.pro@tutamail.com)
+
