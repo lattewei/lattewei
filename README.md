@@ -4,7 +4,7 @@ I study computer science in Paris.
 
 In my free time, I build projects around web3/blockchain, backend engineering, and APIs. I'm also interested in exploring healthcare and music through technology.
 
-My next goal is to deepen my understanding of how AI works so that I can apply it to real-world applications.
+My next goal is to deepen my understanding of how AI works.
 
 
 ## Stack
