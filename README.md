@@ -4,6 +4,8 @@ I study computer science in Paris.
 
 In my free time, I build projects around web3/blockchain, backend engineering, and APIs. I'm also interested in exploring healthcare and music through technology.
 
+Some of my projects are opensource, and some are private !
+
 My next goal is to deepen my understanding of how AI works.
 
 
