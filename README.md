@@ -12,6 +12,7 @@ I Love :
 - Blockchain & DeFI
 - Sport
 - Music
+- And Perfumes !
   
 
 ## Stack
