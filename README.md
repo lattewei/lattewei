@@ -8,6 +8,11 @@ Some of my projects are opensource, and some are private !
 
 My next goal is to deepen my understanding of how AI works.
 
+I Love : 
+- Blockchain & DeFI
+- Sport
+- Music
+  
 
 ## Stack
 
