@@ -8,13 +8,6 @@ Some of my projects are opensource, and some are private !
 
 My next goal is to deepen my understanding of how AI works.
 
-I Love : 
-- Blockchain & DeFI
-- Sport
-- Music
-- And Perfumes !
-  
-
 ## Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -29,3 +22,6 @@ I Love :
 
 [![Email](https://img.shields.io/badge/latte.pro%40tutamail.com-E0001B?style=flat-square)](mailto:latte.pro@tutamail.com)
 
+## Stats 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lattewei&theme=holi)
