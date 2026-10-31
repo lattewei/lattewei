@@ -21,7 +21,3 @@ My next goal is to deepen my understanding of how AI works.
 [![X](https://img.shields.io/badge/@lattenull-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/lattenull)
 
 [![Email](https://img.shields.io/badge/latte.pro%40tutamail.com-E0001B?style=flat-square)](mailto:latte.pro@tutamail.com)
-
-## Stats 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lattewei&theme=holi)
