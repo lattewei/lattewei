@@ -6,7 +6,7 @@ In my free time, I build projects around web3/blockchain, backend engineering, a
 
 Some of my projects are opensource, and some are private !
 
-My next goal is to deepen my understanding of how AI works.
+My next goal is to learn hardware and 3D printing.
 
 ## Stack
 
