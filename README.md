@@ -2,7 +2,7 @@
 
 I study computer science in Paris.
 
-In my free time, I build projects around web3/blockchain, backend engineering, and APIs. I'm also interested in exploring healthcare and music through technology.
+In my free time, I build projects around web3/blockchain, backend engineering, and APIs. I'm currently learning deeply DeFi Security.
 
 Some of my projects are opensource, and some are private !
 
